@@ -1,0 +1,153 @@
+body{
+	margin: 	0;
+	padding: 	0;
+	box-sizing: 	border-box;	
+	font-family: 'Oswald', sans-serif;
+}
+.my_ul li a{
+font-family: 'Otomanopee One', sans-serif;
+font-size: 20px;
+text-decoration: none;
+color: #87CEFA;
+-webkit-text-stroke: 0.2px ;
+
+}
+.my_ul li a:hover{
+     text-decoration: underline;
+     text-shadow: 3px 3px 1px #FF7F50;
+}
+menu {
+	margin: 0;
+	padding: 0;
+}
+.my_ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	width: 70%;
+	margin: 0 auto;
+	justify-content: space-between;
+	height: 56px;
+	align-items: center;
+	padding-top: 40px;
+}
+body {
+	background-image: url("img/AAAAAA.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.text {
+	margin-top: 90px;
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: white;
+	font-size: 25px;
+text-decoration: none;
+ background: -webkit-linear-gradient(#8db4ff, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+text-align: center;
+-webkit-text-stroke: 0.2px white;
+
+}
+.pa {
+	width: 300px;
+	margin-left: 420px;
+}
+.one{
+margin-top: 90px;
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: white;
+	font-size: 25px;
+text-decoration: none;
+text-align: center;
+}
+.two{
+margin-top: 90px;
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: white;
+	font-size: 25px;
+text-decoration: none;
+text-align: center;
+}
+.three{
+margin-top: 90px;
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: white;
+	font-size: 25px;
+text-decoration: none;
+text-align: center;
+}
+.four{
+margin-top: 90px;
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: white;
+	font-size: 25px;
+text-decoration: none;
+text-align: center;
+}
+.a{
+margin: 0;
+	padding: 0;
+	display: flex;
+	width: 50%;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 40px;
+}
+.b{
+margin: 0;
+	padding: 0;
+	display: flex;
+	width: 50%;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 40px;
+}
+.c{
+margin: 0;
+	padding: 0;
+	display: flex;
+	width: 50%;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 40px;
+}
+.d{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	width: 50%;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 40px;
+}
+.menu {
+   margin: 0;
+	padding: 0;
+	display: flex;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 10px;
+	width: 1515px;
+}
+.img{
+	margin-left: 100px;
+}
+.cop {
+	margin-bottom: -2900px;
+	margin-left: -200px;
+	width: 1518px;
+}
+#aaa {
+	font-family: 'Baloo Chettan 2', cursive;
+	font-size: 20px;
+	color: #ADD8E6;
+ }

@@ -1,0 +1,93 @@
+body{
+	margin: 	0;
+	padding: 	0;
+	box-sizing: 	border-box;	
+	font-family: 'Oswald', sans-serif;
+}
+.my_ul li a{
+font-family: 'Otomanopee One', sans-serif;
+font-size: 20px;
+text-decoration: none;
+color: #87CEFA;
+-webkit-text-stroke: 0.2px ;
+}
+.my_ul li a:hover{
+     text-decoration: underline;
+     text-shadow: 3px 3px 1px #FF7F50;
+}
+menu {
+	margin: 0;
+	padding: 0;
+}
+.my_ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	width: 70%;
+	margin: 0 auto;
+	justify-content: space-between;
+	height: 56px;
+	align-items: center;
+	padding-top: 40px;
+}
+body {
+	background-image: url("img/AAAAAA.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#inf{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 40px;
+}
+.menu {
+   margin: 0;
+	padding: 0;
+	display: flex;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 10px;
+	width: 1518px;
+}
+.fon {
+   margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	margin-left: 90px;
+	width: 800px;
+		margin-top: -200px;
+}
+.icon {
+   margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	padding-top: 0px;
+	width: 620px;
+		margin-top: -200px;
+}
+.word {
+   margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	width: 700px;
+	display: flex;
+	margin-top: -20px;
+}
+.cop {
+	margin-bottom: -1400px;
+	margin-left: -200px;
+	width: 1518px;
+}
+#aaa {
+	font-family: 'Baloo Chettan 2', cursive;
+	font-size: 20px;
+	color: #ADD8E6;
+ }

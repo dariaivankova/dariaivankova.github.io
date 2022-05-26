@@ -1,0 +1,289 @@
+body{
+	margin: 	0;
+	padding: 	0;
+	box-sizing: 	border-box;	
+	font-family: 'Oswald', sans-serif;
+}
+.my_ul li a{
+font-family: 'Otomanopee One', sans-serif;
+font-size: 20px;
+text-decoration: none;
+color: #87CEFA;
+-webkit-text-stroke: 0.2px ;
+
+}
+.my_ul li a:hover{
+     text-decoration: underline;
+     text-shadow: 3px 3px 1px #FF7F50;
+}
+menu {
+	margin: 0;
+	padding: 0;
+}
+.my_ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	width: 70%;
+	margin: 0 auto;
+	justify-content: space-between;
+	height: 56px;
+	align-items: center;
+	padding-top: 40px;
+}
+body {
+	background-image: url("img/AAAAAA.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.h22 {
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+font-size: 45px;
+text-decoration: none;
+text-align: center;
+}
+.one {
+width: 210px;
+}
+.two{
+width: 210px;
+}
+.three{
+width: 210px;
+}
+.four{
+width: 210px;
+}
+.five{
+width: 210px;
+}
+.six{
+width: 210px;
+}
+.seven{
+width: 210px;
+}
+.onee {
+ margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	width: 700px;
+	display: flex;
+	margin-right: 200px;
+	color:#FF6347;
+}
+.twoo {
+	margin-top: 50px;
+	display: flex;
+	width: 700px;
+	margin-left: 620px;
+	color: #00B2EE;
+}
+.threee{
+margin-top: 60px;
+	display: flex;
+	width: 700px;
+	margin-left: 620px;
+	color: #76EEC6;
+}
+.fourr{
+margin-top: 60px;
+	display: flex;
+	width: 700px;
+	margin-left: 620px;
+	color: #D15FEE;
+}
+.sixx{
+margin-top: 60px;
+	display: flex;
+	width: 700px;
+	margin-left: 620px;
+	color: #97FFFF;
+}
+.sevenn{
+margin-top: 60px;
+	display: flex;
+	width: 700px;
+	margin-left: 620px;
+	color: #FFD700;
+}
+.gif {
+	margin-left: -1050px;
+	margin-bottom: -60px;
+	align-items: center;
+	padding-top: -50px;
+	width: 155px;
+}
+.adin {
+	width: 155px;
+	padding-top: 50px;
+	margin-left: 120px;
+}
+.dva {
+	width: 155px;
+}
+.tri {
+	width: 155px;
+}
+.chiture {
+	width: 155px;
+}
+.pat {
+	width: 155px;
+}
+.shest {
+	width: 155px;
+}
+.sem {
+	width: 155px;
+}
+.vosem {
+	width: 155px;
+}
+.hydro {
+		margin-left: -960px;
+	margin-bottom: -120px;
+	align-items: center;
+	padding-top: -50px;
+	width: 170px;
+}
+.barb {
+width: 155px;
+	padding-top: 50px;
+	margin-left: 420px;
+}
+.mona {
+width: 155px;
+}
+.childe {
+width: 155px;
+}
+.xi {
+	width: 155px;
+}
+.anemo {
+	margin-left: -635px;
+	margin-bottom: -130px;
+	align-items: center;
+	padding-top: -50px;
+	width: 180px;
+}
+.jean {
+width: 155px;
+	padding-top: 50px;
+	margin-left: 350px;
+}
+.kazuha {
+width: 155px;
+}
+.sucr{
+width: 155px;
+}
+.venti{
+width: 155px;
+}
+.xiao{
+width: 155px;
+}
+.electro {
+	margin-left: -745px;
+	margin-bottom: -130px;
+	align-items: center;
+	padding-top: -50px;
+	width: 200px;
+}
+.beid{
+width: 155px;
+	padding-top: 50px;
+	margin-left: 350px;
+}
+.fish{
+width: 155px;
+}
+.keq{
+width: 155px;
+}
+.lisa{
+width: 155px;
+}
+.raz{
+width: 155px;
+}
+.cryo {
+	margin-left: -725px;
+	margin-bottom: -130px;
+	align-items: center;
+	padding-top: -50px;
+	width: 175px;
+}
+.geo{
+	margin-left: 425px;
+	margin-bottom: -130px;
+	align-items: center;
+	padding-top: -50px;
+	width: 180px;
+}
+.cho{
+width: 155px;
+	padding-top: 50px;
+	margin-left: 130px;
+}
+.di{
+width: 155px;
+}
+.eu{
+width: 155px;
+}
+.ga{
+width: 155px;
+}
+.ka{
+width: 155px;
+}
+.ay{
+width: 155px;
+}
+.qi{
+width: 155px;
+}
+.roz{
+width: 155px;
+}
+.alb{
+width: 155px;
+	padding-top: 50px;
+	margin-left: 420px;
+}
+.nin{
+width: 155px;
+}
+.noe{
+width: 155px;
+}
+.zho{
+width: 155px;	
+}
+.menu {
+  margin: 0;
+	padding: 0;
+	display: flex;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 10px;
+	width: 1515px;
+}
+.cop {
+	margin-bottom: -3100px;
+	margin-left: -200px;
+	width: 1518px;
+}
+#aaa {
+	font-family: 'Baloo Chettan 2', cursive;
+	font-size: 20px;
+	color: #ADD8E6;
+ }

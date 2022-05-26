@@ -1,0 +1,88 @@
+body{
+	margin: 	0;
+	padding: 	0;
+	box-sizing: 	border-box;	
+	font-family: 'Oswald', sans-serif;
+}
+.my_ul li a{
+font-family: 'Otomanopee One', sans-serif;
+font-size: 20px;
+text-decoration: none;
+color: #87CEFA;
+-webkit-text-stroke: 0.2px ;
+}
+.my_ul li a:hover{
+     text-decoration: underline;
+     text-shadow: 3px 3px 1px #FF7F50;
+}
+menu {
+	margin: 0;
+	padding: 0;
+}
+.my_ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	width: 70%;
+	margin: 0 auto;
+	justify-content: space-between;
+	height: 56px;
+	align-items: center;
+	padding-top: 40px;
+}
+body {
+	background-image: url("img/AAAAAA.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.h11 {
+	color: white;
+		font-family: 'Otomanopee One', sans-serif;
+font-size: 40px;
+text-decoration: none;
+color: #FFE4E1;
+text-align: center;
+-webkit-text-stroke: 0.2px #4682B4;
+   -webkit-text-fill-color: white;
+}
+.h22 {
+	color: white;
+		font-family: 'Dosis', sans-serif;
+font-size: 25px;
+text-decoration: none;
+ background: -webkit-linear-gradient(#8db4ff, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+text-align: center;
+/*   background-color: #FF7F50;
+   background-size: cover;*/
+}
+.pr {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	width: 70%;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 40px;
+}
+#dav {
+	border: 3px white;
+
+}
+.cop {
+	margin: 0;
+	padding: 0;
+	margin-left: -200px;
+	width: 1518px;
+	margin-bottom: -1080px;
+}
+#aaa {
+	font-family: 'Baloo Chettan 2', cursive;
+	font-size: 20px;
+	color: #ADD8E6;
+ }
